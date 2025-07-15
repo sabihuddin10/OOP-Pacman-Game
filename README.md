@@ -147,9 +147,9 @@
 
 Developed by:
 
-- **Sabih Uddin** (22K4347)  
-- **Anas Khan** (22K4170)  
-- **Arham Khan** (22K4542)  
+- **Sabih Uddin** (k224347@nu.edu.pk)  
+- **Anas Khan** (anacekhanx@gmail.com)  
+- **Arham Khan** (k224542@nu.edu.pk)  
 
 As a final project for the **Object-Oriented Programming** course.
 
