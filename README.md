@@ -147,7 +147,7 @@
 
 Developed by:
 
-- **Sabih Uddin** (k224347@nu.edu.pk)  
+- **Sabih Uddin** (k224347@nu.edu.pk || sabihuddin106@gmail.com)  
 - **Anas Khan** (anacekhanx@gmail.com)  
 - **Arham Khan** (k224542@nu.edu.pk)  
 
